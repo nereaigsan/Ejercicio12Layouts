@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio12Layouts</string>
+    <string name="rojo">ROJO</string>
+    <string name="naranja">NARANJA</string>
+    <string name="amarillo">AMARILLO</string>
+    <string name="verde">VERDE</string>
+    <string name="azul">AZUL</string>
+    <string name="rosa">ROSA</string>
+    <string name="violeta">VIOLETA</string>
+</resources>
